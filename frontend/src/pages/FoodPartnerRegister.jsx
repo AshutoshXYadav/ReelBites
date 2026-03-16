@@ -100,4 +100,4 @@ const FoodPartnerRegister = () => {
   )
 }
 
-export default FoodPartnerRegister
+export default FoodPartnerRegister //Asgg
